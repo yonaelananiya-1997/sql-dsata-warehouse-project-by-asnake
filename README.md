@@ -1,2 +1,1 @@
-# sql-dsata-warehouse-project-by-asnake
-this project practice tutorial from data with bara youtub project 
+A personal Data Warehouse project demonstrating the design and implementation of a modern data warehouse using the Bronze, Silver, and Gold architecture. This project includes ETL development, data transformation, star schema design, and SQL scripts. The project is currently in progress as I continue to enhance and validate the solution.
